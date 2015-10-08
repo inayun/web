@@ -46,6 +46,8 @@ aside h1{
 
 a{
 	color : orange;
+	text-decoration : none;
+
 }
 
 body>div> article * *:not(.section):hover{
